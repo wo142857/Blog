@@ -16,5 +16,5 @@
 ### 跑步读书
 #### [跑步日记-2020](https://github.com/wo142857/Blog/issues/1)
 #### [《了不起的盖茨比》读书笔记](https://github.com/wo142857/Blog/issues/2)
-#### [《你当像鸟飞往你的山》读书笔记](https://github.com/wo142857/Blog/issues/3)
+#### [《你当像鸟飞往你的山》读后感](https://github.com/wo142857/Blog/issues/3)
 ### 上海买房
